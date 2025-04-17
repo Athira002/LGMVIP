@@ -9,6 +9,7 @@
 To analyze global terrorism incidents from 1970 to 2017, uncovering patterns related to attack types, affected regions, target categories, and terrorist groups.
 
 ## Key Insights:
+
 • Most Affected Country: Iraq experienced the highest number of terrorist
 attacks, followed by Pakistan, Afghanistan, and India.Analytics
 Vidhya+1ZepAnalytics+1
