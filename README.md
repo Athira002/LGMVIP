@@ -24,3 +24,15 @@ targeted, with military and police forces also heavily affected.
 
 • Active Terrorist Groups: The Taliban and ISIL were among the most active
 groups, responsible for a substantial number of attacks.
+
+## Technical Approach:
+
+• Data Handling: Utilized Python libraries such as Pandas and NumPy for data
+cleaning and preprocessing.
+
+• Visualization: Employed Matplotlib and Seaborn to create insightful
+visualizations, including bar charts and count plots, to illustrate trends and
+patterns.
+
+• Data Cleaning: Addressed missing values by imputing or categorizing them
+appropriately to ensure data integrity.
