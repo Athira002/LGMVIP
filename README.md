@@ -42,3 +42,38 @@ appropriately to ensure data integrity.
 This project provided a comprehensive overview of global terrorism trends, highlighting
 critical areas and periods of concern. It showcased the ability to derive meaningful
 insights from complex datasets, a crucial skill in data analytics roles.
+
+# Project 2: Image to Pencil Sketch using OpenCV
+
+## Ojective:
+
+This project demonstrates a simple computer vision technique to convert a colored image into a realistic pencil sketch using Python and OpenCV. It applies a series of image processing operations such as grayscale conversion, Gaussian blur, and image division to recreate the effect of a hand-drawn sketch.
+
+## 🔧 Key Techniques:
+
+Grayscale Transformation – Converts the input image to black-and-white for processing.
+
+Inversion – Inverts the grayscale image to highlight edges.
+
+Blurring – Applies a Gaussian blur to simulate the softness of pencil shading.
+
+Image Division – Combines the grayscale and blurred inverted image to produce the final sketch effect.
+
+## 💡 Purpose:
+
+The goal was to understand and implement basic image transformation techniques and showcase how simple operations can achieve creative visual effects. This project helped build a foundation in image preprocessing and filtering techniques in OpenCV.
+
+## 🧰 Tools Used:
+
+Python
+
+OpenCV
+
+Jupyter Notebook
+
+
+
+
+
+
+
