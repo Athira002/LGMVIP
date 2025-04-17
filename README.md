@@ -5,3 +5,6 @@
 # Project 1: Exploratory Data Analysis on Global Terrorism Dataset
 
 ## Objective:
+
+### To analyze global terrorism incidents from 1970 to 2017, uncovering patterns related to
+attack types, affected regions, target categories, and terrorist groups.
