@@ -43,6 +43,7 @@ This project provided a comprehensive overview of global terrorism trends, highl
 critical areas and periods of concern. It showcased the ability to derive meaningful
 insights from complex datasets, a crucial skill in data analytics roles.
 
+
 # Project 2: Image to Pencil Sketch using OpenCV
 
 ## Objective:
