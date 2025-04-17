@@ -45,7 +45,7 @@ insights from complex datasets, a crucial skill in data analytics roles.
 
 # Project 2: Image to Pencil Sketch using OpenCV
 
-## Ojective:
+## Objective:
 
 This project demonstrates a simple computer vision technique to convert a colored image into a realistic pencil sketch using Python and OpenCV. It applies a series of image processing operations such as grayscale conversion, Gaussian blur, and image division to recreate the effect of a hand-drawn sketch.
 
