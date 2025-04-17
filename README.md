@@ -110,7 +110,7 @@ Matplotlib, Seaborn
 
 ## Certificate
 
-[![View Certificate](https://img.shields.io/badge/Certificate-View-green)]()
+[![View Certificate](https://img.shields.io/badge/Certificate-View-green)](https://github.com/Athira002/LGMVIP/blob/324a1fd421e2d52fccc4b3872a7e0aa86f4a3942/Athira%20Sreekumar%20.pdf)
 
 
 
