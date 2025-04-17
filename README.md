@@ -72,6 +72,44 @@ OpenCV
 
 Jupyter Notebook
 
+Project 3: Iris Flower Classification using Machine Learning
+
+## Objective:
+
+This project focuses on building a supervised machine learning model to classify iris flowers into three species—Setosa, Versicolor, and Virginica—based on their sepal and petal dimensions.
+
+## 🧠 Key Steps:
+
+Data Exploration & Visualization – Used seaborn and matplotlib for exploratory data analysis and pattern recognition.
+
+Feature Selection & Preprocessing – Focused on features like petal length, petal width, sepal length, and sepal width.
+
+Model Training – Applied classification algorithms such as:
+
+Logistic Regression
+
+K-Nearest Neighbors (KNN)
+
+Support Vector Machine (SVM)
+
+Evaluation – Measured model accuracy using confusion matrix and classification report.
+
+## 🎯 Outcome:
+
+Achieved high accuracy in classifying the iris species and gained hands-on experience in the ML pipeline from data preparation to model evaluation.
+
+## 🧰 Tools Used:
+
+Python
+
+Scikit-learn
+
+Pandas, Numpy
+
+Matplotlib, Seaborn
+
+
+
 
 
 
