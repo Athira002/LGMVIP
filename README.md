@@ -72,7 +72,7 @@ OpenCV
 
 Jupyter Notebook
 
-Project 3: Iris Flower Classification using Machine Learning
+# Project 3: Iris Flower Classification using Machine Learning
 
 ## Objective:
 
