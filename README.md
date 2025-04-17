@@ -8,7 +8,7 @@
 
 # Project 1: Exploratory Data Analysis on Global Terrorism Dataset
 
-## Objective:
+## 📝 Objective:
 
 To analyze global terrorism incidents from 1970 to 2017, uncovering patterns related to attack types, affected regions, target categories, and terrorist groups.
 
@@ -41,7 +41,7 @@ patterns.
 • Data Cleaning: Addressed missing values by imputing or categorizing them
 appropriately to ensure data integrity.
 
-## Outcome:
+## 🎯 Outcome:
 
 This project provided a comprehensive overview of global terrorism trends, highlighting
 critical areas and periods of concern. It showcased the ability to derive meaningful
@@ -50,7 +50,7 @@ insights from complex datasets, a crucial skill in data analytics roles.
 
 # Project 2: Image to Pencil Sketch using OpenCV
 
-## Objective:
+## 📝 Objective:
 
 This project demonstrates a simple computer vision technique to convert a colored image into a realistic pencil sketch using Python and OpenCV. It applies a series of image processing operations such as grayscale conversion, Gaussian blur, and image division to recreate the effect of a hand-drawn sketch.
 
@@ -78,11 +78,11 @@ Jupyter Notebook
 
 # Project 3: Iris Flower Classification using Machine Learning
 
-## Objective:
+## 📝 Objective:
 
 This project focuses on building a supervised machine learning model to classify iris flowers into three species—Setosa, Versicolor, and Virginica—based on their sepal and petal dimensions.
 
-## 🧠 Key Steps:
+## 🔧 Key Steps:
 
 Data Exploration & Visualization – Used seaborn and matplotlib for exploratory data analysis and pattern recognition.
 
