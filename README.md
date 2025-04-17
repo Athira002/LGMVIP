@@ -36,3 +36,9 @@ patterns.
 
 • Data Cleaning: Addressed missing values by imputing or categorizing them
 appropriately to ensure data integrity.
+
+## Outcome:
+
+This project provided a comprehensive overview of global terrorism trends, highlighting
+critical areas and periods of concern. It showcased the ability to derive meaningful
+insights from complex datasets, a crucial skill in data analytics roles.
