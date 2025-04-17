@@ -8,7 +8,7 @@
 
 To analyze global terrorism incidents from 1970 to 2017, uncovering patterns related to attack types, affected regions, target categories, and terrorist groups.
 
-## Key Insights:
+## 🔧 Key Insights:
 
 • Most Affected Country: Iraq experienced the highest number of terrorist
 attacks, followed by Pakistan, Afghanistan, and India.
@@ -25,7 +25,7 @@ targeted, with military and police forces also heavily affected.
 • Active Terrorist Groups: The Taliban and ISIL were among the most active
 groups, responsible for a substantial number of attacks.
 
-## Technical Approach:
+## 🧰 Technical Approach:
 
 • Data Handling: Utilized Python libraries such as Pandas and NumPy for data
 cleaning and preprocessing.
